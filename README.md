@@ -2,6 +2,8 @@
 
 ### Build a Treemap Diagram with D3
 
+Try it on Codepen: https://codepen.io/Romugar/pen/aaeWBm
+
 #### Objective
 
 Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/KaNGNR.
